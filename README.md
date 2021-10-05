@@ -19,6 +19,6 @@ C108118220 🙂
 
 ![Gura](https://github.com/Yueru0916/2021_System-analysis-and-design/blob/main/Gura.png)
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![EVERYTHIN YOU NEED](https://i.ytimg.com/vi/4bUboZmwSWw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb4mS63LcwJ5FH-eM7l7gWcpxlkQ)](https://www.youtube.com/watch?v=4bUboZmwSWw)
 ### todo list
 - [x] done
