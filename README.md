@@ -22,13 +22,13 @@ C108118220 🐈 🐕
 [![EVERYTHIN YOU NEED](https://i.ytimg.com/vi/4bUboZmwSWw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb4mS63LcwJ5FH-eM7l7gWcpxlkQ)](https://www.youtube.com/watch?v=4bUboZmwSWw)
 
 ---
-Emphasis ,aka italics, with asterisks or underscores.
+Emphasis ,aka italics, with asterisks or underscores. *斜體*
 
-Strong emphasis,aka bold, with **asterisks** or **underscores.**
+Strong emphasis,aka bold, with **asterisks** or **underscores.** **粗體**
 
 Combined emphasis with **asterisks and underscores.**
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough uses two tildes. ~~Scratch this.~~  ~~刪除~~
 
 ---
 1. First ordered list item
