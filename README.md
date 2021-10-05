@@ -17,7 +17,8 @@ C108118220 🙂
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 
-![fig](https://github.com/Yueru0916/2021_System-analysis-and-design/blob/main/Gura.png)
+![Gura](https://github.com/Yueru0916/2021_System-analysis-and-design/blob/main/Gura.png)
 
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ### todo list
 - [x] done
