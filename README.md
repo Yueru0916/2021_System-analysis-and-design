@@ -17,7 +17,7 @@ C108118220 🐈 🐕
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
 
-![Gura](https://github.com/Yueru0916/2021_System-analysis-and-design/blob/main/Gura.png)
+![Gura](Gura.png "A")
 
 [![EVERYTHIN YOU NEED](https://i.ytimg.com/vi/4bUboZmwSWw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBb4mS63LcwJ5FH-eM7l7gWcpxlkQ)](https://www.youtube.com/watch?v=4bUboZmwSWw)
 
